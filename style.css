@@ -1,0 +1,55 @@
+:root{
+    background-color: #b5b5b5;
+}
+
+#menuPrinc{
+    display: inline-block;
+}
+
+#menuSite{
+    height: 3vw;
+    width: 100%;
+    list-style: none;
+
+}
+
+
+/* Teclas da calculadora */
+#teclas{
+    background-color: black;
+    width: 40%;
+    height: 30%;
+}
+
+button{
+    width: 10%;
+    left: 50%;
+}
+
+#zero{
+    width: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
